@@ -28,14 +28,11 @@ body{
 body > * {
    outline: 2xp dashed red;
 }
-*/
-   
-   
+*/ 
 body > header {
    grid-row: 1;
    grid-column: 1/-1;
 }
-
 
 
 body > article {
